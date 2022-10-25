@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando JavaScript
-- 🔭 Tenho como objetivo me tornar Desenvolvedor Web Full Stack
+- 🔭 Tenho como objetivo me tornar Desenvolvedor Front-End Junior
 - 📫 Contate-me no email: phenrique.santana@outlook.com
 ##
 <div align="center">
