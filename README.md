@@ -1,14 +1,14 @@
 ## Olá! Seja bem-vindo ao meu perfil 👋🏼
 
 
-- 🌱 Estudando JavaScript
+- 🌱 Atualmente estudando TypeScript
 - 🔭 Tenho como objetivo me tornar Desenvolvedor Front-End
 - 📫 Contate-me no email: phenrique.santana@outlook.com
 ##
 <div align="center">
   <a href="https://github.com/Paulo-Henrique-Santana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Henrique-Santana&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Henrique-Santana&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulo-Henrique-Santana&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulo-Henrique-Santana&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens"/>
 </div>
 
 ## Linguagens e Tecnologias
