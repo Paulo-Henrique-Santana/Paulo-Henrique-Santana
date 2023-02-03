@@ -15,7 +15,7 @@
 ## Skills
 
 <div>
-  <a href="https://www.origamid.com/certificate/4e68f3cc" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-      badge&logo=react&logoColor=61DAFB" alt="react"></a>
+  <a href="https://www.origamid.com/certificate/4e68f3cc" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></a>
   <a href="https://www.origamid.com/certificate/69660f3c" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"></a>
   <a href="https://www.origamid.com/certificate/d9b21aad" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
   <a href="https://www.origamid.com/certificate/e3727cc8" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
