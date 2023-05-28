@@ -1,18 +1,16 @@
-## Hi! Welcome to my profile 👋🏼
+## Olá! Seja bem-vindo ao meu perfil 👋🏼
 
+- 🌱 Atualmente estudando Angular
+- 📫 Contate-me pelo e-mail: phenrique.santana@outlook.com
 
-- 🌱 Currently studying TypeScript
-- 🔭 My goal is to become a Front-End Developer
-- 📫 Contact me on email: phenrique.santana@outlook.com
-
-## Stats
+## Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulo-Henrique-Santana&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulo-Henrique-Santana&layout=compact&langs_count=7&theme=react&custom_title=Linguagens"/>
 </div>
 
-## Skills
+## Tecnologias
 
 <div>
   <a href="https://www.origamid.com/certificate/4e68f3cc" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></a>
