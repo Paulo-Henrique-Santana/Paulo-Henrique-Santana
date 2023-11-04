@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu perfil 👋🏼
 
-- 🌱 Atualmente estudando Angular
+- 🌱 Desenvolvedor Full-Stack
 - 📫 Contate-me pelo e-mail: phenrique.santana@outlook.com
 
 ## Estatísticas
